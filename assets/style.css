@@ -25,3 +25,7 @@ h1{font-size:clamp(2.2rem,6vw,4.4rem);line-height:1.02;font-weight:800;letter-sp
 footer{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;padding:28px 20px 40px;font-size:.85rem;color:#6b6687}footer .pixel{font-size:10px;color:#6c63ff}
 .grid3{grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr))}
 @media (max-width:520px){section{padding-top:40px;padding-bottom:40px}.brand .pixel{font-size:9px}.brand{gap:8px}.navcta{font-size:.85rem}.soon{padding:22px}.ctas .btn{width:100%;text-align:center}footer{flex-direction:column}}
+.avail{background:#fff;border:2px solid #241f3d;border-radius:18px;padding:28px;box-shadow:6px 6px 0 #6c63ff}
+.availrow{display:flex;gap:24px;align-items:center;justify-content:space-between;flex-wrap:wrap}.availrow>div:first-child{flex:1 1 320px}
+.buy{display:flex;align-items:center;gap:16px}.price{font-size:20px;color:#6c63ff}
+@media (max-width:520px){.avail{padding:22px}.buy{width:100%;justify-content:space-between}}
