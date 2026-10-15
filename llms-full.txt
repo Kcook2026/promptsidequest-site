@@ -1,0 +1,291 @@
+# Prompt Sidequest
+
+> Prompt Sidequest helps everyday people use AI for more than search: copy-paste prompts, no-code app/website build guides, no-code AI agent setups, and AI for gamers. Free newsletter plus paid digital packs.
+
+## Key pages
+- [Home](https://promptsidequest.com/): overview, sample prompts, products
+- [10 free AI prompts](https://promptsidequest.com/prompts/): copy-paste prompts for life, work, learning, building and gaming
+- [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
+- [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests
+- [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv
+
+## Products
+- [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29 USD. 31-page PDF + plain-text prompts. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. Sold via Gumroad.
+- Coming soon (not yet available): The Prompt Library, Build Without Code, Gamer's Guild Pack.
+
+## Optional
+- [Full text for LLMs](https://promptsidequest.com/llms-full.txt)
+- [Store](https://promptsidequest.gumroad.com)
+
+---
+
+# Full free prompt pack: 50 Prompts for Real Life
+
+## Quest 1: Everyday Life
+Start here. These prompts turn AI into a patient helper for the daily grind: dinner, budgets, trips, and tricky conversations.
+
+### The Fridge Raid Chef
+Use when you're staring at random ingredients and have no plan.
+
+I have these ingredients: [list what's in your fridge/pantry]. Suggest 3 dinners I can make in under [30] minutes using mostly what I have. I'm cooking for [number] people and we [any dietary needs, e.g. no dairy]. For each, give a short ingredient list, simple steps, and what I'd need to buy, if anything.
+
+### Weekly Meal Plan + Grocery List
+Use when you want to stop deciding what's for dinner every single night.
+
+Plan [5] dinners for this week for [household, e.g. 2 adults and a picky 7-year-old]. Budget is about [$80] total. We like [foods you like] and avoid [foods you avoid]. Reuse ingredients across meals to cut waste. Then give me one grocery list grouped by store section.
+
+### The No-Shame Budget
+Use when you want a budget but spreadsheets make you sleepy.
+
+Help me build a simple monthly budget. My take-home pay is [amount]. My fixed bills are: [rent, phone, car, etc. with amounts]. I usually overspend on [category]. My goal is to [save $X / pay off debt / build an emergency fund]. Suggest realistic spending limits, explain them in plain English, and give me 3 easy habits to stick to it.
+
+### Bill Negotiator Script
+Use when you want a lower bill but hate awkward phone calls.
+
+Write me a short, friendly phone script to ask [company, e.g. my internet provider] for a lower rate. I've been a customer for [time], I pay [amount] a month, and I've seen [competitor offer, if any]. Include what to say if they say no the first time, and when to ask for the retention department.
+
+### Trip Planner, Your Way
+Use when you're planning a trip and don't know where to start.
+
+Plan a [number]-day trip to [destination] for [who's going]. Our budget is about [amount] not including flights. We love [interests, e.g. food, hiking, museums] and hate [e.g. long lines, early mornings]. Give me a day-by-day plan with a relaxed pace, neighborhoods to stay in, and one 'hidden gem' each day.
+
+### Packing List Generator
+Use when you always forget the charger. Always.
+
+Make me a packing checklist for a [number]-day trip to [destination] in [month]. I'm traveling with [carry-on only / checked bag] and doing [activities]. Group it by category, flag anything easy to forget, and keep it as short as possible.
+
+### Hard Conversation Coach
+Use when you need to say something difficult and want the right words.
+
+I need to talk to [person, e.g. my roommate] about [issue]. I want to [goal, e.g. fix the problem without a fight]. Help me plan what to say: an opening line, how to explain my side calmly, and how to respond if they get defensive. Keep it warm and honest, not corporate.
+
+### Decision Helper
+Use when you're stuck between two (or more) choices.
+
+I'm trying to decide between [option A] and [option B]. What matters most to me is [your priorities]. My worries are [concerns]. Ask me up to 5 questions first to understand my situation, then give me a clear pros/cons breakdown and your honest recommendation.
+
+### Explain This Document
+Use when you got a confusing letter, bill, lease, or contract.
+
+Here is a [type of document, e.g. lease / insurance letter / medical bill]: [paste text]. Explain it to me in plain English like I'm smart but not a lawyer. What does it actually mean, what do I need to do, are there deadlines, and is there anything I should question or watch out for?
+
+## Quest 2: Work & Career
+Your new co-op partner for the 9-to-5. Draft faster, prep smarter, and practice the scary stuff before it counts.
+
+### Email Untangler
+Use when you need to write an email and it keeps coming out wrong.
+
+Write an email to [recipient and their role] about [topic]. I want to [goal, e.g. politely push back on a deadline]. Tone: [friendly / formal / firm]. Keep it under [120] words. Here's the background: [context]. Give me 2 versions: one short, one a bit warmer.
+
+### Résumé Glow-Up
+Use when your résumé reads like a list of chores.
+
+Here's a bullet from my résumé: [paste bullet]. I'm applying for [job title] at [type of company]. Rewrite it into 3 stronger options that start with action verbs and show results. If a number would help, ask me for it instead of making one up.
+
+### Cover Letter Starter
+Use when you have to write a cover letter and the blank page is winning.
+
+Write a short cover letter for the [job title] role at [company]. Here's the job description: [paste]. Here's my background: [2-4 sentences about you]. Make it sound like a real person, not a template. Highlight [the one thing you most want them to know]. Max 250 words.
+
+### Mock Interview Boss Fight
+Use when you have an interview coming and want practice.
+
+Act as an interviewer for a [job title] position at [company or type of company]. Ask me one question at a time, including at least one behavioral and one tricky question. After each answer I give, rate it 1-10, tell me what was good, and show me a stronger version. Start when I say 'ready'.
+
+### Meeting Notes to Action Items
+Use when a meeting just ended and your notes are chaos.
+
+Here are my messy notes from a meeting about [topic]: [paste notes]. Turn them into: 1) a 3-sentence summary, 2) decisions made, 3) action items with owner and due date (mark 'unclear' if missing), and 4) open questions. Then draft a short follow-up email to the group.
+
+### Raise Request Prep
+Use when you think you deserve more money (you probably do).
+
+Help me prepare to ask for a raise. My role: [job title]. Time in role: [time]. Wins this year: [list accomplishments]. Current pay: [amount] and I'm hoping for [amount]. Give me talking points, a confident opening line, and how to respond if my manager says 'not right now.'
+
+### Explain My Job to Me
+Use when you started a new role or were handed an unfamiliar project.
+
+I just started working on [project or role] in [industry]. Explain the key terms, the main players, and what 'good work' looks like here. Then give me a 30-day plan to get up to speed and 5 smart questions I should ask my team.
+
+### Career Path Explorer
+Use when you're wondering what else is out there.
+
+I currently work as a [current job] and I'm good at [skills]. I enjoy [what you like] and I'm tired of [what you don't]. Suggest 5 career paths I might not have considered, why each fits me, typical pay range, and the smallest first step I could take this month to test each one.
+
+## Quest 3: Learning
+AI is the most patient tutor you'll ever meet. It never sighs when you ask the same question twice.
+
+### Explain Like I'm Five (Then Ten)
+Use when a topic keeps going over your head.
+
+Explain [topic] to me in three levels: first like I'm 5, then like I'm a curious teenager, then like I'm a college student. Use one everyday analogy throughout. End with 3 quick questions to check I really got it.
+
+### 30-Day Skill Quest
+Use when you want to learn something new but don't know where to start.
+
+I want to learn [skill] in 30 days. I can spend [minutes] a day and my current level is [beginner / some experience]. Build me a day-by-day plan with small daily missions, free resources, and a 'boss level' project at the end to prove what I learned.
+
+### Quiz Me
+Use when you're studying and want to know what actually stuck.
+
+Quiz me on [topic or paste your notes]. Ask one question at a time, mixing multiple choice and short answer. Wait for my answer, tell me if I'm right, and explain briefly. Get harder as I get things right. Keep score like a game.
+
+### Book & Article Digest
+Use when you want the key ideas without reading 300 pages (yet).
+
+Summarize the main ideas of [book title or paste an article] in plain English. Give me: the 5 biggest takeaways, one story or example that sticks, how I could apply it to [your life situation], and who would disagree with it and why.
+
+### Language Practice Buddy
+Use when you're learning a language and need someone to chat with.
+
+Be my [language] conversation partner. I'm at a [beginner / intermediate] level. Let's chat about [topic, e.g. ordering at a café]. Keep your messages short and simple. After each of my replies, gently correct my mistakes in English, then continue the conversation.
+
+### Homework Helper (Not Cheater)
+Use when you or your kid is stuck on a problem.
+
+I'm working on this problem: [paste problem]. Don't give me the answer. Instead, guide me step by step with hints and questions so I figure it out myself. If I get stuck twice on the same step, show me a similar example problem solved.
+
+### Learn From Your Mistakes
+Use when you got something wrong and want to know why.
+
+Here's what I tried: [paste your answer, code, essay, etc.]. Here's what the correct result should be: [expected result or feedback received]. Explain what I misunderstood, why, and give me one tip to remember next time.
+
+### Curiosity Rabbit Hole
+Use when you're bored and want to learn something fun.
+
+I'm interested in [broad topic, e.g. space, history, food]. Tell me 5 surprising, true facts I probably don't know. For each one, give a one-line hook and suggest a question I could ask you next to go deeper. Let me pick which rabbit hole to follow.
+
+## Quest 4: Build an App or Website
+Yes, you can build things. Today's AI can write the code and walk you through every click. You bring the idea.
+
+### Idea to Plan
+Use when you have an app or website idea and don't know where to start.
+
+I want to build [describe your idea] for [who it's for]. I have zero coding experience. Turn this into a simple plan: the core features for a first version (keep it tiny), what the main screens would look like, and the easiest no-code or AI tools to build it with. Explain everything in plain English.
+
+### One-Page Website in Minutes
+Use when you need a simple site for yourself, a side hustle, or an event.
+
+Write a complete single-file HTML page (with CSS inside) for [business or purpose]. Include: [sections, e.g. headline, about, services, contact]. Style: [vibe, e.g. warm and modern]. Colors: [colors]. Then give me step-by-step instructions to put it online for free, assuming I've never done this before.
+
+### Tiny Tool Builder
+Use when you want a little helper app just for you.
+
+Build me a simple web app in a single HTML file that [what it does, e.g. tracks my water intake / splits a bill between friends]. It should save data in the browser so it remembers between visits. Make it look clean on a phone. Tell me exactly how to open and use it.
+
+### Fix My Error
+Use when something broke and you're staring at a scary red message.
+
+I'm building [what you're building] using [tool or language, if known]. I did [what you did] and got this error: [paste error]. Explain what it means in plain English, then give me the exact fix, step by step. Assume I'm a beginner.
+
+### Add a Feature
+Use when your project works and you want to level it up.
+
+Here is my current code: [paste code]. I want to add [new feature]. Update the code to include it without breaking anything else. Give me the full updated file, and tell me in one or two sentences what you changed.
+
+### Write My Website Copy
+Use when the design is done but the words are blank.
+
+Write website copy for [business/project]. Audience: [who]. What makes us different: [unique thing]. Tone: [friendly / bold / professional]. Give me: a headline, a subheadline, 3 benefit blocks, an 'about' paragraph, and a call-to-action button label.
+
+### Choose My Tools
+Use when there are a million app builders and you're overwhelmed.
+
+I want to build [type of app/site] that needs [features, e.g. user logins, payments, a database]. My budget is [amount per month] and my skill level is [none / a little]. Compare 3 to 4 beginner-friendly options, with pros, cons, and cost, and recommend one.
+
+### Launch Checklist
+Use when you're about to share your project with the world.
+
+I'm launching [project] for [audience]. Give me a simple pre-launch checklist covering: testing on phone and desktop, basic privacy and security, a domain name, analytics, and 5 places I could share it to get my first 50 users.
+
+## Quest 5: Put AI Agents to Work
+Recruit helpers for your party. These prompts help you design small automations and 'AI assistants' that do repetitive work for you.
+
+### Find What to Automate
+Use when you suspect you're wasting time but aren't sure where.
+
+Here's what a typical week looks like for me: [describe your tasks at work and home]. Identify the 5 most repetitive tasks that could be automated or handed to an AI assistant. For each, explain how, which beginner tool could do it, and estimate the time I'd save per week.
+
+### Build a Custom Assistant
+Use when you keep re-explaining the same context to AI.
+
+Help me write instructions for a custom AI assistant (like a custom GPT or project) that helps me with [job, e.g. answering customer emails for my bakery]. Include its role, tone, what it should always do, what it should never do, and the info it needs from me. Format it so I can paste it straight in.
+
+### Inbox Triage Rules
+Use when your inbox is a dungeon full of monsters.
+
+I get about [number] emails a day, mostly [types, e.g. newsletters, client requests, receipts]. Design a simple system to sort them automatically: folders/labels, filter rules, and which ones an AI could draft replies to. Give me step-by-step setup instructions for [Gmail / Outlook].
+
+### No-Code Automation Recipe
+Use when you want two apps to talk to each other.
+
+I want this to happen automatically: when [trigger, e.g. someone fills out my form], then [action, e.g. add them to a spreadsheet and send a welcome email]. Walk me through building it in [Zapier / Make / another tool] step by step, like I've never used it. Mention any costs or limits.
+
+### Daily Briefing Bot
+Use when you want a morning summary instead of checking 10 apps.
+
+Help me set up a daily morning briefing that collects [things you want, e.g. weather, my calendar, top news on a topic, tasks due today] and sends it to me by [email / text / Slack] at [time]. Suggest the simplest tools to do this and give step-by-step setup instructions.
+
+### Turn a Process Into Steps
+Use when you want to hand off a task to an AI agent (or a person).
+
+Here's how I currently do [task]: [describe it, however messy]. Turn it into a clear, numbered standard operating procedure that an AI agent or new team member could follow. Mark which steps need a human decision and which could be fully automated.
+
+### Research Agent Brief
+Use when you need to research something and want AI to do the legwork.
+
+Act as my research assistant. I need to understand [topic or decision, e.g. the best CRM for a 3-person team]. Find and compare the top options, cite your sources with links, flag anything you're unsure about, and finish with a one-paragraph recommendation for someone who [your situation].
+
+### Content Repurposing Machine
+Use when you made one thing and want it in five formats.
+
+Here's something I created: [paste blog post, video transcript, or notes]. Repurpose it into: 1 LinkedIn post, 3 short social posts, 1 email newsletter section, and 5 catchy title ideas. Keep my voice: [describe your style]. Then suggest how I could automate this every time I publish.
+
+## Quest 6: Gaming
+The home turf. Use AI as your strategy guide, theorycrafter, modding mentor, and game dev buddy.
+
+### Build Theorycrafter
+Use when you want a strong character build without reading 40 forum threads.
+
+I'm playing [game] as a [class/character] at [level or progress point]. My playstyle is [e.g. aggressive melee / stealthy / support]. Suggest a build: key stats, skills, gear, and the order to unlock them. Explain why it works and its biggest weakness. Note if anything may have changed in recent patches.
+
+### Stuck-Level Strategy Guide
+Use when you've died to the same boss 14 times.
+
+I'm stuck on [boss or level] in [game]. My current setup is [character, gear, level]. I keep losing because [what happens]. Give me a step-by-step strategy, what to change in my loadout, and one tip to practice. No spoilers beyond this fight, please.
+
+### Spoiler-Free Hint Ladder
+Use when you want a nudge, not the full answer.
+
+I'm stuck on [puzzle or area] in [game]. Give me hints in order from vaguest to most specific, numbered 1-5. Only show hint 1 at first, and wait for me to ask for the next one. Never give the full solution unless I type 'just tell me.'
+
+### Modding Starter Kit
+Use when you want to mod a game but don't know how.
+
+I want to start modding [game] on [PC / platform]. Explain the safest way to begin: what mod manager or tools to use, how to back up my saves, how to install my first mod, and what to do if the game crashes. Then suggest 3 beginner-friendly mod types I could try making myself.
+
+### Make a Mini Game (Browser)
+Use when you want to make your own game. Today. With no experience.
+
+Make a complete, playable mini game in a single HTML file that runs in my browser. Idea: [e.g. a snake game where you eat tacos / a clicker game about growing a plant]. Include a start screen, score, game over, and simple sound if possible. Comment the code so I can tweak it, and tell me 3 easy changes to make it my own.
+
+### Game Night Game Master
+Use when you're hosting friends and want something fresh.
+
+Create a [genre, e.g. mystery / fantasy] tabletop-style adventure for [number] players that takes about [time]. No special books required, just paper and dice. Include the setup, characters to choose from, 3 key scenes, and a twist. Then act as the game master when we start.
+
+### Team Comp & Counter Picks
+Use when you play competitive and want an edge.
+
+In [game], my team usually plays [heroes/champions/units] and we keep losing to [enemy comp or strategy]. Explain why we're losing, suggest counter picks or adjustments, and give us a simple game plan for the early, mid, and late game.
+
+### Design My Dream Game
+Use when you have a game idea living rent-free in your head.
+
+Help me design a game concept. Core idea: [your idea]. Genre: [genre]. Inspired by: [games you love]. Give me a one-line pitch, the core gameplay loop, 3 unique mechanics, a progression system, and a tiny first version I could build in a weekend with [tool, e.g. Scratch, Godot, or AI-written HTML].
+
+### Speedrun & Challenge Run Ideas
+Use when you've beaten the game and want a new way to play.
+
+I've finished [game]. Suggest 5 creative challenge runs (like no-hit, pacifist, random loadout) ranked from fun to brutal. For each, give the rules, why it's interesting, and a tip for getting started. Bonus: suggest one I could stream or share.
+
