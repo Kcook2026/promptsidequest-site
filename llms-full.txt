@@ -10,7 +10,7 @@
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv
 
 ## Products
-- [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29 USD. 31-page PDF + plain-text prompts. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. Sold via Gumroad.
+- [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29 USD. 35-page PDF + plain-text prompts. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. Sold via Gumroad.
 - Coming soon (not yet available): The Prompt Library, Build Without Code, Gamer's Guild Pack.
 
 ## Optional
