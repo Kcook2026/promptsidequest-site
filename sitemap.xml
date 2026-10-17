@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://promptsidequest.com/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://promptsidequest.com/prompts/</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://promptsidequest.com/prompts/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://promptsidequest.com/agents/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://promptsidequest.com/free/50-prompts.pdf</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://promptsidequest.com/llms.txt</loc><lastmod>2026-10-15</lastmod></url>
@@ -16,4 +16,7 @@
   <url><loc>https://promptsidequest.com/prompts/ask-for-a-raise/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://promptsidequest.com/prompts/write-a-resignation-letter/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://promptsidequest.com/prompts/prepare-for-a-job-interview/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://promptsidequest.com/prompts/talk-to-your-roommate/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://promptsidequest.com/prompts/explain-like-im-5/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://promptsidequest.com/prompts/ai-game-master/</loc><lastmod>2026-10-17</lastmod></url>
 </urlset>
