@@ -1,17 +1,35 @@
 # Prompt Sidequest
 
-> Prompt Sidequest helps everyday people use AI for more than search: copy-paste prompts, no-code app/website build guides, no-code AI agent setups, and AI for gamers. Free newsletter plus paid digital packs.
+> Prompt Sidequest helps everyday people use AI for more than search: copy-paste prompts, no-code app/website build guides, no-code AI agent setups, and AI for gamers. Free prompt library, free 50-prompt PDF and newsletter, plus paid digital packs sold on Gumroad.
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [10 free AI prompts](https://promptsidequest.com/prompts/): copy-paste prompts for life, work, learning, building and gaming
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 14 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
-- [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests
-- [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv
+- [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
+- [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
 
-## Products
-- [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29 USD. 35-page PDF + plain-text prompts. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. Sold via Gumroad.
-- Coming soon (not yet available): The Prompt Library, Build Without Code, Gamer's Guild Pack.
+## Prompt guides
+- [ChatGPT game master prompt for game night](https://promptsidequest.com/prompts/ai-game-master/): Copy-paste prompts to have ChatGPT run a mystery tabletop adventure for game night with just paper and dice: setup, characters, scenes and a twist.
+- [ChatGPT prompt to ask for a raise](https://promptsidequest.com/prompts/ask-for-a-raise/): Copy-paste ChatGPT prompts to build your case, script the conversation and write the email when you ask your boss for a raise.
+- [Build a website with one AI prompt](https://promptsidequest.com/prompts/build-a-website-with-ai/): Build a simple website with one AI prompt: a copy-paste prompt for a single HTML page, plus prompts to fix, polish and publish it free. No coding.
+- [ChatGPT prompt to write a complaint letter to a landlord](https://promptsidequest.com/prompts/complaint-letter-to-landlord/): Copy-paste ChatGPT prompts to write a calm, firm complaint letter to your landlord about repairs, mold, pests or noise, plus a follow-up plan.
+- [ChatGPT prompt to dispute a bill](https://promptsidequest.com/prompts/dispute-a-bill/): Copy-paste ChatGPT prompts to dispute a medical, phone, utility or credit card bill: find errors, write the letter and plan the follow-up call.
+- [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
+- [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
+- [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
+- [AI prompt to plan a week of meals on a budget](https://promptsidequest.com/prompts/meal-plan-on-a-budget/): Copy-paste AI prompts to plan a week of cheap, realistic meals around your budget and pantry, then turn it into one grocery list and a prep plan.
+- [ChatGPT prompt to prepare for a job interview](https://promptsidequest.com/prompts/prepare-for-a-job-interview/): Copy-paste ChatGPT prompts to predict interview questions, build STAR answers from your real experience, run a mock interview and plan your questions.
+- [ChatGPT prompt for RPG builds](https://promptsidequest.com/prompts/rpg-build-planner/): Copy-paste ChatGPT prompts to plan a video game character build: stats, skills, gear and unlock order for your playstyle, plus a patch check.
+- [ChatGPT prompt to talk to your roommate about chores](https://promptsidequest.com/prompts/talk-to-your-roommate/): Copy-paste ChatGPT prompts to plan a calm talk with your roommate about dishes, cleaning, noise or bills, and handle it if they get defensive.
+- [ChatGPT prompt to write a cover letter](https://promptsidequest.com/prompts/write-a-cover-letter/): Copy-paste ChatGPT prompts to write a short cover letter that matches the job post, uses your real experience and sounds like you, not a robot.
+- [ChatGPT prompt to write a resignation letter](https://promptsidequest.com/prompts/write-a-resignation-letter/): Copy-paste ChatGPT prompts to write a short, professional resignation letter, plan your notice period and leave on good terms.
+
+## Products (sold via Gumroad, prices in USD, 14-day money-back guarantee)
+- [Real-Life Prompt Pack](https://promptsidequest.gumroad.com/l/real-life): $9. 75 copy-paste prompts across 9 real-life situations (money and bills, home and life admin, work and career, hard conversations, health, family, travel, learning, fun). 43-page PDF + plain-text copy file.
+- [No-Code AI Builder Kit](https://promptsidequest.gumroad.com/l/builder-kit): $19. 8 guided projects to build and publish websites and apps with AI and free hosting, 23 build prompts, a Fix-It Toolkit, free-tools map and launch checklist. 21-page PDF + plain-text prompts.
+- [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. 35-page PDF + plain-text prompts.
+- [The Whole Sidequest bundle](https://promptsidequest.gumroad.com/l/bundle): $49. All 3 paid packs plus the bundle-only AI for Gamers bonus (30 spoiler-free prompts for getting unstuck, builds, coaching, tabletop and making your own games) and the free 50-prompt pack.
 
 ## Optional
 - [Full text for LLMs](https://promptsidequest.com/llms-full.txt)
