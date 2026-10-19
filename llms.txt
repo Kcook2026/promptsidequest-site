@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 18 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 21 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -13,11 +13,14 @@
 - [ChatGPT game master prompt for game night](https://promptsidequest.com/prompts/ai-game-master/): Copy-paste prompts to have ChatGPT run a mystery tabletop adventure for game night with just paper and dice: setup, characters, scenes and a twist.
 - [ChatGPT prompt to ask for a raise](https://promptsidequest.com/prompts/ask-for-a-raise/): Copy-paste ChatGPT prompts to build your case, script the conversation and write the email when you ask your boss for a raise.
 - [Build a website with one AI prompt](https://promptsidequest.com/prompts/build-a-website-with-ai/): Build a simple website with one AI prompt: a copy-paste prompt for a single HTML page, plus prompts to fix, polish and publish it free. No coding.
+- [ChatGPT prompt to cancel a subscription and get a refund](https://promptsidequest.com/prompts/cancel-a-subscription-and-get-a-refund/): Copy-paste ChatGPT prompts to find forgotten subscriptions, cancel cleanly, ask for a refund politely and follow up if a company keeps charging you.
 - [ChatGPT prompt to write a complaint letter to a landlord](https://promptsidequest.com/prompts/complaint-letter-to-landlord/): Copy-paste ChatGPT prompts to write a calm, firm complaint letter to your landlord about repairs, mold, pests or noise, plus a follow-up plan.
 - [ChatGPT prompt to dispute a bill](https://promptsidequest.com/prompts/dispute-a-bill/): Copy-paste ChatGPT prompts to dispute a medical, phone, utility or credit card bill: find errors, write the letter and plan the follow-up call.
+- [ChatGPT prompt to dispute a medical bill](https://promptsidequest.com/prompts/dispute-a-medical-bill/): Copy-paste ChatGPT prompts to read an itemized medical bill, spot errors, write a dispute letter, call billing calmly and ask for a payment plan.
 - [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
 - [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
+- [ChatGPT prompt to lower your internet bill](https://promptsidequest.com/prompts/lower-your-internet-bill/): Copy-paste ChatGPT prompts to check what you pay for, compare plans, write a calm script for your provider and ask for a lower rate or fewer fees.
 - [ChatGPT prompt to make a monthly budget](https://promptsidequest.com/prompts/make-a-monthly-budget/): Copy-paste ChatGPT prompts to build a simple monthly budget from your real income and bills, find spending leaks and plan for irregular costs.
 - [AI prompt to plan a week of meals on a budget](https://promptsidequest.com/prompts/meal-plan-on-a-budget/): Copy-paste AI prompts to plan a week of cheap, realistic meals around your budget and pantry, then turn it into one grocery list and a prep plan.
 - [ChatGPT prompt to negotiate a job offer](https://promptsidequest.com/prompts/negotiate-a-job-offer/): Copy-paste ChatGPT prompts to research your number, write a polite counteroffer email, practice the call and negotiate more than salary.
