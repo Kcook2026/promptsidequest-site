@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 16 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 17 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -24,6 +24,7 @@
 - [ChatGPT prompt to prepare for a job interview](https://promptsidequest.com/prompts/prepare-for-a-job-interview/): Copy-paste ChatGPT prompts to predict interview questions, build STAR answers from your real experience, run a mock interview and plan your questions.
 - [ChatGPT prompt for RPG builds](https://promptsidequest.com/prompts/rpg-build-planner/): Copy-paste ChatGPT prompts to plan a video game character build: stats, skills, gear and unlock order for your playstyle, plus a patch check.
 - [ChatGPT prompt to talk to your roommate about chores](https://promptsidequest.com/prompts/talk-to-your-roommate/): Copy-paste ChatGPT prompts to plan a calm talk with your roommate about dishes, cleaning, noise or bills, and handle it if they get defensive.
+- [ChatGPT prompt to write a thank-you email after an interview](https://promptsidequest.com/prompts/thank-you-email-after-interview/): Copy-paste ChatGPT prompts to write a short, specific thank-you email after a job interview, plus follow-ups if you hear nothing back.
 - [ChatGPT prompt to write a cover letter](https://promptsidequest.com/prompts/write-a-cover-letter/): Copy-paste ChatGPT prompts to write a short cover letter that matches the job post, uses your real experience and sounds like you, not a robot.
 - [ChatGPT prompt to write a resignation letter](https://promptsidequest.com/prompts/write-a-resignation-letter/): Copy-paste ChatGPT prompts to write a short, professional resignation letter, plan your notice period and leave on good terms.
 
