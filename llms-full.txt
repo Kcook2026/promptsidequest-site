@@ -4,13 +4,14 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 21 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 22 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
 
 ## Prompt guides
 - [ChatGPT game master prompt for game night](https://promptsidequest.com/prompts/ai-game-master/): Copy-paste prompts to have ChatGPT run a mystery tabletop adventure for game night with just paper and dice: setup, characters, scenes and a twist.
+- [ChatGPT prompt to appeal a denied insurance claim](https://promptsidequest.com/prompts/appeal-a-denied-insurance-claim/): Copy-paste ChatGPT prompts to decode a claim denial letter, gather the right documents, write a clear appeal letter and follow up with your insurer.
 - [ChatGPT prompt to ask for a raise](https://promptsidequest.com/prompts/ask-for-a-raise/): Copy-paste ChatGPT prompts to build your case, script the conversation and write the email when you ask your boss for a raise.
 - [Build a website with one AI prompt](https://promptsidequest.com/prompts/build-a-website-with-ai/): Build a simple website with one AI prompt: a copy-paste prompt for a single HTML page, plus prompts to fix, polish and publish it free. No coding.
 - [ChatGPT prompt to cancel a subscription and get a refund](https://promptsidequest.com/prompts/cancel-a-subscription-and-get-a-refund/): Copy-paste ChatGPT prompts to find forgotten subscriptions, cancel cleanly, ask for a refund politely and follow up if a company keeps charging you.
