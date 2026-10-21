@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 22 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 23 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -25,6 +25,7 @@
 - [ChatGPT prompt to make a monthly budget](https://promptsidequest.com/prompts/make-a-monthly-budget/): Copy-paste ChatGPT prompts to build a simple monthly budget from your real income and bills, find spending leaks and plan for irregular costs.
 - [AI prompt to plan a week of meals on a budget](https://promptsidequest.com/prompts/meal-plan-on-a-budget/): Copy-paste AI prompts to plan a week of cheap, realistic meals around your budget and pantry, then turn it into one grocery list and a prep plan.
 - [ChatGPT prompt to negotiate a job offer](https://promptsidequest.com/prompts/negotiate-a-job-offer/): Copy-paste ChatGPT prompts to research your number, write a polite counteroffer email, practice the call and negotiate more than salary.
+- [ChatGPT prompt to negotiate a rent increase](https://promptsidequest.com/prompts/negotiate-a-rent-increase/): Copy-paste ChatGPT prompts to check a rent increase notice, research local rents, write a polite counteroffer to your landlord and plan your next step.
 - [ChatGPT prompt to plan a trip](https://promptsidequest.com/prompts/plan-a-trip/): Copy-paste ChatGPT prompts to plan a realistic day-by-day trip itinerary, set a travel budget, build a packing list and handle plans going wrong.
 - [ChatGPT prompt to prepare for a job interview](https://promptsidequest.com/prompts/prepare-for-a-job-interview/): Copy-paste ChatGPT prompts to predict interview questions, build STAR answers from your real experience, run a mock interview and plan your questions.
 - [ChatGPT prompt for RPG builds](https://promptsidequest.com/prompts/rpg-build-planner/): Copy-paste ChatGPT prompts to plan a video game character build: stats, skills, gear and unlock order for your playstyle, plus a patch check.
