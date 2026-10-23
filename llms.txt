@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 25 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 26 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -22,6 +22,7 @@
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
 - [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
 - [ChatGPT prompt to lower your credit card interest rate](https://promptsidequest.com/prompts/lower-your-credit-card-interest-rate/): Copy-paste ChatGPT prompts to read your card statement, build your case, write a call script and ask your card issuer for a lower interest rate (APR).
+- [ChatGPT prompt to lower your electric bill](https://promptsidequest.com/prompts/lower-your-electric-bill/): Copy-paste ChatGPT prompts to decode your electric bill, find what uses the most power, build a simple savings plan and ask your utility about options.
 - [ChatGPT prompt to lower your internet bill](https://promptsidequest.com/prompts/lower-your-internet-bill/): Copy-paste ChatGPT prompts to check what you pay for, compare plans, write a calm script for your provider and ask for a lower rate or fewer fees.
 - [ChatGPT prompt to lower your phone bill](https://promptsidequest.com/prompts/lower-your-phone-bill/): Copy-paste ChatGPT prompts to decode your cell phone bill, check what you really use, compare plans and ask your carrier for a lower monthly price.
 - [ChatGPT prompt to make a monthly budget](https://promptsidequest.com/prompts/make-a-monthly-budget/): Copy-paste ChatGPT prompts to build a simple monthly budget from your real income and bills, find spending leaks and plan for irregular costs.
