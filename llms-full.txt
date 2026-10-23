@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 24 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 25 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -21,12 +21,13 @@
 - [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
 - [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
+- [ChatGPT prompt to lower your credit card interest rate](https://promptsidequest.com/prompts/lower-your-credit-card-interest-rate/): Copy-paste ChatGPT prompts to read your card statement, build your case, write a call script and ask your card issuer for a lower interest rate (APR).
 - [ChatGPT prompt to lower your internet bill](https://promptsidequest.com/prompts/lower-your-internet-bill/): Copy-paste ChatGPT prompts to check what you pay for, compare plans, write a calm script for your provider and ask for a lower rate or fewer fees.
+- [ChatGPT prompt to lower your phone bill](https://promptsidequest.com/prompts/lower-your-phone-bill/): Copy-paste ChatGPT prompts to decode your cell phone bill, check what you really use, compare plans and ask your carrier for a lower monthly price.
 - [ChatGPT prompt to make a monthly budget](https://promptsidequest.com/prompts/make-a-monthly-budget/): Copy-paste ChatGPT prompts to build a simple monthly budget from your real income and bills, find spending leaks and plan for irregular costs.
 - [AI prompt to plan a week of meals on a budget](https://promptsidequest.com/prompts/meal-plan-on-a-budget/): Copy-paste AI prompts to plan a week of cheap, realistic meals around your budget and pantry, then turn it into one grocery list and a prep plan.
 - [ChatGPT prompt to negotiate a job offer](https://promptsidequest.com/prompts/negotiate-a-job-offer/): Copy-paste ChatGPT prompts to research your number, write a polite counteroffer email, practice the call and negotiate more than salary.
 - [ChatGPT prompt to negotiate a rent increase](https://promptsidequest.com/prompts/negotiate-a-rent-increase/): Copy-paste ChatGPT prompts to check a rent increase notice, research local rents, write a polite counteroffer to your landlord and plan your next step.
-- [ChatGPT prompt to lower your credit card interest rate](https://promptsidequest.com/prompts/lower-your-credit-card-interest-rate/): Copy-paste ChatGPT prompts to read your card statement, build your case, write a call script and ask your card issuer for a lower interest rate (APR).
 - [ChatGPT prompt to plan a trip](https://promptsidequest.com/prompts/plan-a-trip/): Copy-paste ChatGPT prompts to plan a realistic day-by-day trip itinerary, set a travel budget, build a packing list and handle plans going wrong.
 - [ChatGPT prompt to prepare for a job interview](https://promptsidequest.com/prompts/prepare-for-a-job-interview/): Copy-paste ChatGPT prompts to predict interview questions, build STAR answers from your real experience, run a mock interview and plan your questions.
 - [ChatGPT prompt for RPG builds](https://promptsidequest.com/prompts/rpg-build-planner/): Copy-paste ChatGPT prompts to plan a video game character build: stats, skills, gear and unlock order for your playstyle, plus a patch check.
