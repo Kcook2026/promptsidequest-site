@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 26 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 27 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
 - [Newsletter](https://promptsidequest.beehiiv.com/subscribe): free, hosted on beehiiv; subscribers get the 50-prompt pack
@@ -17,6 +17,7 @@
 - [ChatGPT prompt to cancel a subscription and get a refund](https://promptsidequest.com/prompts/cancel-a-subscription-and-get-a-refund/): Copy-paste ChatGPT prompts to find forgotten subscriptions, cancel cleanly, ask for a refund politely and follow up if a company keeps charging you.
 - [ChatGPT prompt to write a complaint letter to a landlord](https://promptsidequest.com/prompts/complaint-letter-to-landlord/): Copy-paste ChatGPT prompts to write a calm, firm complaint letter to your landlord about repairs, mold, pests or noise, plus a follow-up plan.
 - [ChatGPT prompt to dispute a bill](https://promptsidequest.com/prompts/dispute-a-bill/): Copy-paste ChatGPT prompts to dispute a medical, phone, utility or credit card bill: find errors, write the letter and plan the follow-up call.
+- [ChatGPT prompt to dispute a credit report error](https://promptsidequest.com/prompts/dispute-a-credit-report-error/): Copy-paste ChatGPT prompts to spot credit report errors, gather proof, write a clear dispute letter and track every reply until the item is fixed.
 - [ChatGPT prompt to dispute a medical bill](https://promptsidequest.com/prompts/dispute-a-medical-bill/): Copy-paste ChatGPT prompts to read an itemized medical bill, spot errors, write a dispute letter, call billing calmly and ask for a payment plan.
 - [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
