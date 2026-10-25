@@ -3,7 +3,7 @@
 > Prompt Sidequest helps everyday people use AI for more than search: copy-paste prompts, no-code app/website build guides, no-code AI agent setups, and AI for gamers. Free prompt library, free 50-prompt PDF and newsletter, plus paid digital packs sold on Gumroad.
 
 ## Key pages
-- [Home](https://promptsidequest.com/): overview, sample prompts, products
+- [Home](https://promptsidequest.com/): overview, money tools (Bill Fighter Letter Kit, Bills & Debt Tracker), sample prompts, products
 - [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 28 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [Free PDF: 50 Prompts for Real Life](https://promptsidequest.com/free/50-prompts.pdf): 16-page free prompt pack, six quests (everyday life, work, learning, building, agents, gaming)
@@ -40,6 +40,9 @@
 - [ChatGPT prompt to write a resignation letter](https://promptsidequest.com/prompts/write-a-resignation-letter/): Copy-paste ChatGPT prompts to write a short, professional resignation letter, plan your notice period and leave on good terms.
 
 ## Products (sold via Gumroad, prices in USD, 14-day money-back guarantee)
+- [Bill Fighter Letter Kit](https://promptsidequest.gumroad.com/l/bill-fighter): $7. 16 fill-in letters, each with a short phone script and a what-to-save checklist, for wrong bills, medical bills, refunds, subscriptions, security deposits, rent increases, credit report errors, insurance appeals, hardship and payment plans. Plus a printable dispute tracker, call log and AI prompts to tailor any letter. 24-page PDF + editable Word file. General templates, not legal or financial advice.
+- [Bills & Debt Tracker](https://promptsidequest.gumroad.com/l/bills-tracker): $5. Spreadsheet for Excel, Google Sheets and LibreOffice (.xlsx, real formulas, no macros): monthly bills with due dates and paid status, bill calendar, paid log, monthly budget (plan vs actual), and a debt payoff planner comparing snowball vs avalanche (estimated months, debt-free date, total interest).
+- [Money Tools Bundle](https://promptsidequest.gumroad.com/l/money-tools): $10. The Bill Fighter Letter Kit + the Bills & Debt Tracker together.
 - [Real-Life Prompt Pack](https://promptsidequest.gumroad.com/l/real-life): $9. 75 copy-paste prompts across 9 real-life situations (money and bills, home and life admin, work and career, hard conversations, health, family, travel, learning, fun). 43-page PDF + plain-text copy file.
 - [No-Code AI Builder Kit](https://promptsidequest.gumroad.com/l/builder-kit): $19. 8 guided projects to build and publish websites and apps with AI and free hosting, 23 build prompts, a Fix-It Toolkit, free-tools map and launch checklist. 21-page PDF + plain-text prompts.
 - [Agent Template Pack](https://promptsidequest.gumroad.com/l/xiors): $29. 12 copy-paste, no-code AI agents (inbox triage, daily briefing, meal planner, budget watcher, job scout, gaming patch-notes tracker and more), each with setup steps, safety rules and an illustrative example run. 35-page PDF + plain-text prompts.
