@@ -129,3 +129,8 @@ footer ul{list-style:none;margin:0;padding:0;display:grid;gap:9px}footer a{color
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.rv{opacity:1;transform:none;transition:none}*{transition:none!important;animation:none!important}}
 .brand span{white-space:nowrap}
 @media(max-width:520px){.hide-s{display:none}.nav .wrap{gap:12px}.brand{font-size:15px}.nav .btn{padding:8px 12px;font-size:13.5px}.ctas .btn{width:100%}.trust{flex-direction:column;align-items:center;gap:8px}.product .price b{font-size:40px}}
+/* nav: keep links on one line now that AI Safety is in the nav (2026-10-25) */
+.links a{white-space:nowrap}
+@media(max-width:1280px){.links{gap:18px;font-size:14px}}
+@media(max-width:1140px){.links a[href="/#pricing"],.links a[href="/#faq"]{display:none}}
+@media(max-width:1000px){.links a[href="/#free"],.links a[href="/#quests"],.links a[href="/agents/"]{display:none}}
