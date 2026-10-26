@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, money tools (Bill Fighter Letter Kit, Bills & Debt Tracker), sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 28 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 29 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [AI Safety](https://promptsidequest.com/ai-safety/): AI safety at work (AI use policy, staff training, EU AI Act AI literacy) and at home (AI voice-clone and deepfake scams, what to do if you were scammed)
 - [Free PDF: AI Scam Safety Checklist](https://promptsidequest.com/free/ai-scam-safety-checklist.pdf): 2-page printable family plan against AI voice-clone and fake-emergency scams, built from FBI and FTC guidance
@@ -22,6 +22,7 @@
 - [ChatGPT prompt to dispute a credit report error](https://promptsidequest.com/prompts/dispute-a-credit-report-error/): Copy-paste ChatGPT prompts to spot credit report errors, gather proof, write a clear dispute letter and track every reply until the item is fixed.
 - [ChatGPT prompt to dispute a medical bill](https://promptsidequest.com/prompts/dispute-a-medical-bill/): Copy-paste ChatGPT prompts to read an itemized medical bill, spot errors, write a dispute letter, call billing calmly and ask for a payment plan.
 - [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
+- [ChatGPT prompt to get an airline refund](https://promptsidequest.com/prompts/get-a-refund-for-a-cancelled-flight/): Copy-paste ChatGPT prompts to ask for a refund after a cancelled or changed flight: check the rules, write the request and follow up until it is paid.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
 - [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
 - [ChatGPT prompt to lower your credit card interest rate](https://promptsidequest.com/prompts/lower-your-credit-card-interest-rate/): Copy-paste ChatGPT prompts to read your card statement, build your case, write a call script and ask your card issuer for a lower interest rate (APR).
