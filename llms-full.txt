@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, money tools (Bill Fighter Letter Kit, Bills & Debt Tracker), sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 29 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 30 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [AI Safety](https://promptsidequest.com/ai-safety/): AI safety at work (AI use policy, staff training, EU AI Act AI literacy) and at home (AI voice-clone and deepfake scams, what to do if you were scammed)
 - [Free PDF: AI Scam Safety Checklist](https://promptsidequest.com/free/ai-scam-safety-checklist.pdf): 2-page printable family plan against AI voice-clone and fake-emergency scams, built from FBI and FTC guidance
@@ -25,6 +25,7 @@
 - [ChatGPT prompt to get an airline refund](https://promptsidequest.com/prompts/get-a-refund-for-a-cancelled-flight/): Copy-paste ChatGPT prompts to ask for a refund after a cancelled or changed flight: check the rules, write the request and follow up until it is paid.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
 - [AI prompt for a hard conversation with your boss](https://promptsidequest.com/prompts/hard-conversation-with-boss/): Free AI prompts to plan a hard conversation with your boss: raises, workload, feedback, mistakes. Get an opening line, talking points and practice.
+- [ChatGPT prompt to lower your car insurance](https://promptsidequest.com/prompts/lower-car-insurance/): Copy-paste ChatGPT prompts to decode your car insurance policy, compare real quotes side by side and ask your insurer for a lower price at renewal.
 - [ChatGPT prompt to lower your credit card interest rate](https://promptsidequest.com/prompts/lower-your-credit-card-interest-rate/): Copy-paste ChatGPT prompts to read your card statement, build your case, write a call script and ask your card issuer for a lower interest rate (APR).
 - [ChatGPT prompt to lower your electric bill](https://promptsidequest.com/prompts/lower-your-electric-bill/): Copy-paste ChatGPT prompts to decode your electric bill, find what uses the most power, build a simple savings plan and ask your utility about options.
 - [ChatGPT prompt to lower your internet bill](https://promptsidequest.com/prompts/lower-your-internet-bill/): Copy-paste ChatGPT prompts to check what you pay for, compare plans, write a calm script for your provider and ask for a lower rate or fewer fees.
