@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, money tools (Bill Fighter Letter Kit, Bills & Debt Tracker), sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 34 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 35 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [AI Safety](https://promptsidequest.com/ai-safety/): AI safety at work (AI use policy, staff training, EU AI Act AI literacy) and at home (AI voice-clone and deepfake scams, what to do if you were scammed)
 - [Free PDF: AI Scam Safety Checklist](https://promptsidequest.com/free/ai-scam-safety-checklist.pdf): 2-page printable family plan against AI voice-clone and fake-emergency scams, built from FBI and FTC guidance
@@ -16,6 +16,7 @@
 - [ChatGPT prompt to appeal a denied insurance claim](https://promptsidequest.com/prompts/appeal-a-denied-insurance-claim/): Copy-paste ChatGPT prompts to decode a claim denial letter, gather the right documents, write a clear appeal letter and follow up with your insurer.
 - [ChatGPT prompt to ask for a raise](https://promptsidequest.com/prompts/ask-for-a-raise/): Copy-paste ChatGPT prompts to build your case, script the conversation and write the email when you ask your boss for a raise.
 - [Build a website with one AI prompt](https://promptsidequest.com/prompts/build-a-website-with-ai/): Build a simple website with one AI prompt: a copy-paste prompt for a single HTML page, plus prompts to fix, polish and publish it free. No coding.
+- [ChatGPT prompt to cancel a gym membership](https://promptsidequest.com/prompts/cancel-a-gym-membership/): Copy-paste ChatGPT prompts to read your gym contract, write a clear cancellation letter, handle the retention pitch and keep a record until it ends.
 - [ChatGPT prompt to cancel a subscription and get a refund](https://promptsidequest.com/prompts/cancel-a-subscription-and-get-a-refund/): Copy-paste ChatGPT prompts to find forgotten subscriptions, cancel cleanly, ask for a refund politely and follow up if a company keeps charging you.
 - [ChatGPT prompt to write a complaint letter to a landlord](https://promptsidequest.com/prompts/complaint-letter-to-landlord/): Copy-paste ChatGPT prompts to write a calm, firm complaint letter to your landlord about repairs, mold, pests or noise, plus a follow-up plan.
 - [ChatGPT prompt to dispute a bill](https://promptsidequest.com/prompts/dispute-a-bill/): Copy-paste ChatGPT prompts to dispute a medical, phone, utility or credit card bill: find errors, write the letter and plan the follow-up call.
