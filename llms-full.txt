@@ -4,7 +4,7 @@
 
 ## Key pages
 - [Home](https://promptsidequest.com/): overview, money tools (Bill Fighter Letter Kit, Bills & Debt Tracker), sample prompts, products
-- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 39 step-by-step prompt guides by situation
+- [Free prompt library](https://promptsidequest.com/prompts/): 10 free copy-paste prompts plus 40 step-by-step prompt guides by situation
 - [AI agents for beginners](https://promptsidequest.com/agents/): what AI agents are and how to set one up without code
 - [AI Safety](https://promptsidequest.com/ai-safety/): AI safety at work (AI use policy, staff training, EU AI Act AI literacy) and at home (AI voice-clone and deepfake scams, what to do if you were scammed)
 - [Free PDF: AI Scam Safety Checklist](https://promptsidequest.com/free/ai-scam-safety-checklist.pdf): 2-page printable family plan against AI voice-clone and fake-emergency scams, built from FBI and FTC guidance
@@ -25,6 +25,7 @@
 - [ChatGPT prompt to dispute a credit report error](https://promptsidequest.com/prompts/dispute-a-credit-report-error/): Copy-paste ChatGPT prompts to spot credit report errors, gather proof, write a clear dispute letter and track every reply until the item is fixed.
 - [ChatGPT prompt to get a late fee waived](https://promptsidequest.com/prompts/dispute-a-late-fee/): Copy-paste ChatGPT prompts to ask a card issuer, utility or landlord to waive a late fee: check the charge, script the call and write the request.
 - [ChatGPT prompt to dispute a medical bill](https://promptsidequest.com/prompts/dispute-a-medical-bill/): Copy-paste ChatGPT prompts to read an itemized medical bill, spot errors, write a dispute letter, call billing calmly and ask for a payment plan.
+- [ChatGPT prompt to dispute a tow bill](https://promptsidequest.com/prompts/dispute-a-tow-bill/): Copy-paste ChatGPT prompts to decode tow and storage charges, list questions for the yard, write a dispute letter and keep a record log.
 - [Explain like I'm 5 prompt: learn anything in three levels](https://promptsidequest.com/prompts/explain-like-im-5/): Copy-paste ChatGPT prompts that explain any topic like you're 5, then a teen, then a college student, and quiz you to check you got it.
 - [ChatGPT prompt to get an airline refund](https://promptsidequest.com/prompts/get-a-refund-for-a-cancelled-flight/): Copy-paste ChatGPT prompts to ask for a refund after a cancelled or changed flight: check the rules, write the request and follow up until it is paid.
 - [ChatGPT prompt to get your security deposit back](https://promptsidequest.com/prompts/get-security-deposit-back/): Copy-paste ChatGPT prompts to document your move-out, challenge unfair deductions and write a firm security deposit demand letter to your landlord.
